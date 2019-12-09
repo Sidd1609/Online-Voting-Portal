@@ -1,0 +1,2 @@
+# Online-Voting-Portal
+A online Voting portal for conducting Indian Elections in  a simple and faster manner. This module helps to avoid long queues in the vote ballot. Also shows the live count of votes. Used Phpmyadmin and Sqlplus for the backend(Database creation) and basic user interface(website) using php, css, and java script and also html for the background and webpage. Applied Normalization for the Database to avoid data redundancy and improve faster search operations.
